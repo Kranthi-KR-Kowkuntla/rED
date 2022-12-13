@@ -21,3 +21,7 @@ public class RecentConversationsAdapter {
         return BitmapFactory.decodeByteArray(bytes, 0, bytes.length);
     }
 }
+
+
+
+//end of code
