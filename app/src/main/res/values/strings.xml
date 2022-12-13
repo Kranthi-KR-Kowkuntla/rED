@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">red</string>
+    <string name="email" />
+    <string name="password" />
+    <string name="sign_in" />
+    <string name="create_new_account" />
+    <string name="add_image">add Image</string>
+    <string name="confirm_password">confirm password</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="select_user">Select User</string>
+    <string name="type_a_message_here">Type a message here</string>
+</resources>

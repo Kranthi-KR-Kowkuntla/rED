@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "840725066002",
+    "project_id": "red-app-8cea4",
+    "storage_bucket": "red-app-8cea4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:840725066002:android:c85441036b45635e1403cb",
+        "android_client_info": {
+          "package_name": "uk.ac.tees.w9577759.red"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "840725066002-rqpcfeoqk00ah0jb7q63ko52nassl313.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9VT1XthNtgh0Nl0C-cXhG15rNl1zTyJc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "840725066002-rqpcfeoqk00ah0jb7q63ko52nassl313.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
